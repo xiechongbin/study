@@ -1,0 +1,7 @@
+1首先，　安装git --> sudo apt-install git 
+2 创建git仓库-->git init 
+3创建一个文件或代码，
+
+
+常用命令git add readme.txt
+git commit -m "wrote a readme file" 
